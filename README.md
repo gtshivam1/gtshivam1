@@ -35,8 +35,6 @@ Transforming raw data into meaningful insights 📊
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gtshivam1&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gtshivam1&layout=compact&theme=tokyonight)
