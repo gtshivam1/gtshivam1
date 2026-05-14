@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 
 <h3 align="center">
-Data Analytics Enthusiast from India 🇮🇳
+Data Analytics Enthusiast
 </h3>
 
 <p align="center">
@@ -35,9 +35,11 @@ Transforming raw data into meaningful insights 📊
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=gtshivam1&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gtshivam1&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gtshivam1&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gtshivam1&layout=compact&theme=tokyonight)
 
 ---
 
