@@ -66,4 +66,4 @@ Transforming raw data into meaningful insights 📊
 
 ## 🔗 Connect With Me
 
-[LinkedIn](https://linkedin.com/)
+[LinkedIn](https://www.linkedin.com/in/shivam-maddheshiya)
